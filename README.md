@@ -1,9 +1,3 @@
-# Aluia Voice App
+# Aluia Voice Demo
 
-Questa è una semplice app web che consente di parlare con un assistente vocale tramite microfono.
-
-## Funzionalità
-
-- Riconoscimento vocale via Web Speech API
-- Interfaccia base con HTML, CSS e JS
-- Punto di partenza per collegare GPT e ElevenLabs
+Demo con microfono sempre attivo + sintesi vocale.
