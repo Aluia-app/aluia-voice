@@ -1,1 +1,2 @@
-App di voce
+# Aluia Voice
+Assistente vocale con microfono sempre attivo + interfaccia testuale.
